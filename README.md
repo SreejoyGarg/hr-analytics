@@ -144,7 +144,7 @@ ORDER BY Attrition_Rate_Pct DESC;
 ## 🚀 How to Run This Project
 1. Clone the repository
 ```bash
-git clone https://github.com/YOURUSERNAME/hr-analytics.git
+git clone https://github.com/SreejoyGarg/hr-analytics.git
 ```
 2. Set up the MySQL database using the scripts in `/sql` (run in order: 01 → 02 → 03)
 3. Run the Jupyter notebooks in `/notebooks` in order to reproduce the cleaning and EDA
@@ -152,5 +152,5 @@ git clone https://github.com/YOURUSERNAME/hr-analytics.git
 
 ## 👤 Author
 **Sreejoy Garg**
-- GitHub: [@Sreejoy2024](https://github.com/Sreejoy2024)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@SreejoyGarg](https://github.com/SreejoyGarg)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/sreejoy-garg-637829277)
